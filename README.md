@@ -11,7 +11,7 @@
 ### 🌟 About Me
 - 🌱 I’m currently learning **ASP.NET MVC | C#**  
 - 💬 Ask me about **Web Development, Android**  
-- 📫 Reach me at **utharasonadi@gmial.com**  
+- 📫 Reach me at **utharasonadi@gmail.com**  
 - ⚡ Fun fact: **I think I'm funny**  
 
 ---
